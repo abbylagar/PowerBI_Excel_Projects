@@ -4,5 +4,6 @@
 
 
 #### Auto send email in excel - [AutoSendEmail](automatic_send_email.xlsm)
+#### Write From Excel to Word - [Excel2Word](excel_vba/report/)
 
 
