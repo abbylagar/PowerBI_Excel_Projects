@@ -3,6 +3,6 @@
 ### Repository for automations done in Microsoft Excel
 
 
-[AutoSendEmail](automatic_send_email.xlsx)
+[AutoSendEmail](automatic_send_email.xlsm)
 
 
