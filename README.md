@@ -1,4 +1,4 @@
-# excel_vba
+# Excel VBA
 
 ### Repository for automations done in Microsoft Excel
 
