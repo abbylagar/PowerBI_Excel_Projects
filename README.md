@@ -1,6 +1,6 @@
 # Excel VBA
 
-### Repository for automations done in Microsoft Excel
+### Repository for aprojects done in Microsoft Excel
 
 
 - Auto send email in excel - [AutoSendEmail](automatic_send_email.xlsm)
